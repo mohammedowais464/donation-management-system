@@ -4,7 +4,7 @@ import java.awt.event.*;
 import java.io.*;  // Only added this one import
 
 // added line one more
-public class AdminLoginPanel extends JPanel {
+public class Admin extends JPanel {
     private AuthFrame authFrame;
     private JTextField usernameField;
     private JPasswordField passwordField;
