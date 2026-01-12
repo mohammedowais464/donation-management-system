@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;  // Only added this one import
 
+// added line
 public class AdminLoginPanel extends JPanel {
     private AuthFrame authFrame;
     private JTextField usernameField;
